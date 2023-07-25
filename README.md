@@ -1,6 +1,6 @@
 # AR-3D-Drawing
 
-AR Drawing++ is an augmented reality (AR) tool that allows users to create their own textures and use them to build a 3D world. With the app, users can draw or paint their own textures using a variety of brush styles and colors. Once they have created their texture, they can then use it to create 3D objects and environments within the AR world.
+AR Drawing++ is an augmented reality (AR) tool built in Unity that allows users to create their own textures and use them to build a 3D world. With the app, users can draw or paint their own textures using a variety of brush styles and colors. Once they have created their texture, they can then use it to create 3D objects and environments within the AR world.
 
 https://xiyingbao.cargo.site/AR-Drawing
 
